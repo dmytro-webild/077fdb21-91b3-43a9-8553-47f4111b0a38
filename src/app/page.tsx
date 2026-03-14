@@ -126,7 +126,7 @@ export default function HomePage() {
               },
             ]}
             testimonialRotationInterval={5000}
-            imageSrc="http://img.b2bpic.net/free-photo/waiter-with-meal-catering-service_624325-1794.jpg"
+            imageSrc="http://img.b2bpic.net/free-photo/waiter-with-meal-catering-service_624325-1794.jpg?_wi=1"
             imageAlt="Luxury buffet spread at MoMo Café"
             mediaAnimation="blur-reveal"
             imagePosition="right"
@@ -164,28 +164,28 @@ export default function HomePage() {
                 id: 1,
                 title: "Lavish Global Buffet",
                 description: "International cuisine, Mughlai classics, South Indian specialties, and vegetarian excellence — explore flavors from around the world.",
-                imageSrc: "http://img.b2bpic.net/free-photo/waiter-with-meal-catering-service_624325-1794.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/waiter-with-meal-catering-service_624325-1794.jpg?_wi=2",
                 imageAlt: "luxury buffet spread fine dining restaurant",
               },
               {
                 id: 2,
                 title: "Live Cooking Stations",
                 description: "Fresh dosas, omelettes, waffles, parathas, and grills prepared right before your eyes, creating a vibrant culinary theatre.",
-                imageSrc: "http://img.b2bpic.net/free-photo/view-delicious-appetizing-street-food_23-2151516861.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/view-delicious-appetizing-street-food_23-2151516861.jpg?_wi=1",
                 imageAlt: "live cooking station chef preparing food",
               },
               {
                 id: 3,
                 title: "Dessert Paradise",
                 description: "Cakes, pastries, traditional Indian sweets, puddings, and bakery items that guests rave about.",
-                imageSrc: "http://img.b2bpic.net/free-photo/chocolate-cake-with-cacao-powder-table_140725-4565.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/chocolate-cake-with-cacao-powder-table_140725-4565.jpg?_wi=1",
                 imageAlt: "luxury dessert display pastry buffet",
               },
               {
                 id: 4,
                 title: "Premium Coffee & Beverages",
                 description: "Artisanal coffee, fresh juices, premium tea selections, cocktails, and curated wines.",
-                imageSrc: "http://img.b2bpic.net/free-photo/close-up-woman-pouring-milk-into-metal-container_1153-1561.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/close-up-woman-pouring-milk-into-metal-container_1153-1561.jpg?_wi=1",
                 imageAlt: "premium coffee espresso service luxury",
               },
             ]}
@@ -208,21 +208,21 @@ export default function HomePage() {
                 id: "breakfast",
                 name: "Breakfast Buffet",
                 price: "₹699",
-                imageSrc: "http://img.b2bpic.net/free-photo/top-view-tasty-fried-cutlets-with-cooked-rice-dark-surface-meal-photo-dish-meat_140725-82661.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/top-view-tasty-fried-cutlets-with-cooked-rice-dark-surface-meal-photo-dish-meat_140725-82661.jpg?_wi=1",
                 imageAlt: "breakfast buffet morning spread fresh juice",
               },
               {
                 id: "lunch",
                 name: "Lunch Buffet",
                 price: "₹899",
-                imageSrc: "http://img.b2bpic.net/free-photo/smoked-fish-salad-side-view_140725-11343.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/smoked-fish-salad-side-view_140725-11343.jpg?_wi=1",
                 imageAlt: "lunch buffet international cuisine salad bar",
               },
               {
                 id: "dinner",
                 name: "Dinner Experience",
                 price: "₹1,199",
-                imageSrc: "http://img.b2bpic.net/free-photo/there-are-glasses-wine-water-table-with-white-cloth-are-ready-dining_613910-3426.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/there-are-glasses-wine-water-table-with-white-cloth-are-ready-dining_613910-3426.jpg?_wi=1",
                 imageAlt: "elegant dinner ambiance upscale restaurant",
               },
             ]}
